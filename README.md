@@ -1,1 +1,1 @@
-Micro by @lexmcconnell
+Micro by [@lexmcconnell} (https://github.com/lexmcconnell)
